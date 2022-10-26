@@ -7,7 +7,7 @@ class Solution {
         {
         nums1[k--]=nums1[i--];
         }
-        else if(nums1[i]<nums2[j])
+        else 
         {
         nums1[k--]=nums2[j--];
         }
