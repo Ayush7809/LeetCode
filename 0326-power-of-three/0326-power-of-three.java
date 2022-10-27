@@ -1,10 +1,12 @@
 class Solution {
-    public boolean isPowerOfThree(int n) {
+    public boolean isPowerOfThree(int n){
+        // time limit exceed
        /* for(int i=0;i<n;i++){
             if(n==Math.pow(3,i))
                 return true;
         }
         return false;*/
+        
          if(n==0) 
             return false;
         while(n!=1){
