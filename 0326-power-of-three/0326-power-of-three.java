@@ -7,7 +7,7 @@ class Solution {
         }
         return false;*/
         
-         if(n==0) 
+        /* if(n==0) 
             return false;
         while(n!=1){
             int r=n%3;
@@ -15,6 +15,11 @@ class Solution {
             if(r!=0)
                 return false;
         }
-        return true;
+        return true;*/
+        long x =1;
+        while(x<n){
+            x= x*3;
+        }
+        return x==n;
     }
 }
