@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Ayush7809/LeetCode/tree/master/0118-pascals-triangle) |
+## Math
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/Ayush7809/LeetCode/tree/master/1448-maximum-69-number) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/Ayush7809/LeetCode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
