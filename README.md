@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Ayush7809/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Ayush7809/LeetCode/tree/master/0118-pascals-triangle) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayush7809/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayush7809/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ayush7809/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Ayush7809/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayush7809/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ayush7809/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ayush7809/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Counting
