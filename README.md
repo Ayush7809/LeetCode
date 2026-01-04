@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayush7809/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ayush7809/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Ayush7809/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1390-four-divisors](https://github.com/Ayush7809/LeetCode/tree/master/1390-four-divisors) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ayush7809/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ayush7809/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ayush7809/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ayush7809/LeetCode/tree/master/0066-plus-one) |
+| [1390-four-divisors](https://github.com/Ayush7809/LeetCode/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/Ayush7809/LeetCode/tree/master/1448-maximum-69-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ayush7809/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Greedy
