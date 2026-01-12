@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ayush7809/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Ayush7809/LeetCode/tree/master/0118-pascals-triangle) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayush7809/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Ayush7809/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayush7809/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ayush7809/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Ayush7809/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ayush7809/LeetCode/tree/master/0066-plus-one) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Ayush7809/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Ayush7809/LeetCode/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/Ayush7809/LeetCode/tree/master/1448-maximum-69-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ayush7809/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ayush7809/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ayush7809/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Ayush7809/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
