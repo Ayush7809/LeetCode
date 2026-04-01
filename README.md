@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Ayush7809/LeetCode/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/Ayush7809/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ayush7809/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2751-robot-collisions](https://github.com/Ayush7809/LeetCode/tree/master/2751-robot-collisions) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ayush7809/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ayush7809/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ayush7809/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -57,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ayush7809/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Ayush7809/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ayush7809/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2751-robot-collisions](https://github.com/Ayush7809/LeetCode/tree/master/2751-robot-collisions) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ayush7809/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ayush7809/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Simulation
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ayush7809/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2751-robot-collisions](https://github.com/Ayush7809/LeetCode/tree/master/2751-robot-collisions) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Ayush7809/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Prefix Sum
 |  |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ayush7809/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+## Stack
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/Ayush7809/LeetCode/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
