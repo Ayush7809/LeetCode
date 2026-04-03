@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Ayush7809/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Ayush7809/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Ayush7809/LeetCode/tree/master/0118-pascals-triangle) |
 | [0735-asteroid-collision](https://github.com/Ayush7809/LeetCode/tree/master/0735-asteroid-collision) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Ayush7809/LeetCode/tree/master/0027-remove-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ayush7809/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ayush7809/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Binary Search
