@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ayush7809/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Ayush7809/LeetCode/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/Ayush7809/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ayush7809/LeetCode/tree/master/0342-power-of-four) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ayush7809/LeetCode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Ayush7809/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ayush7809/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
