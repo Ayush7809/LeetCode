@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ayush7809/LeetCode/tree/master/0066-plus-one) |
+| [0326-power-of-three](https://github.com/Ayush7809/LeetCode/tree/master/0326-power-of-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ayush7809/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Ayush7809/LeetCode/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/Ayush7809/LeetCode/tree/master/1448-maximum-69-number) |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Ayush7809/LeetCode/tree/master/0735-asteroid-collision) |
 | [2751-robot-collisions](https://github.com/Ayush7809/LeetCode/tree/master/2751-robot-collisions) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Ayush7809/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
