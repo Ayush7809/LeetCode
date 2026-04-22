@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ayush7809/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Ayush7809/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Ayush7809/LeetCode/tree/master/0118-pascals-triangle) |
+| [0486-predict-the-winner](https://github.com/Ayush7809/LeetCode/tree/master/0486-predict-the-winner) |
 | [0735-asteroid-collision](https://github.com/Ayush7809/LeetCode/tree/master/0735-asteroid-collision) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayush7809/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ayush7809/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Ayush7809/LeetCode/tree/master/0118-pascals-triangle) |
+| [0486-predict-the-winner](https://github.com/Ayush7809/LeetCode/tree/master/0486-predict-the-winner) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ayush7809/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Math
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ayush7809/LeetCode/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/Ayush7809/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ayush7809/LeetCode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Ayush7809/LeetCode/tree/master/0486-predict-the-winner) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ayush7809/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Ayush7809/LeetCode/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/Ayush7809/LeetCode/tree/master/1448-maximum-69-number) |
@@ -144,4 +147,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ayush7809/LeetCode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Ayush7809/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ayush7809/LeetCode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Ayush7809/LeetCode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ayush7809/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
