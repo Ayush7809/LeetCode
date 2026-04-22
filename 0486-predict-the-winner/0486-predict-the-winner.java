@@ -1,6 +1,6 @@
 class Solution {
     public boolean predictTheWinner(int[] nums) {
-        int [][] dp = new int[nums.length][nums.length];
+        int [][] dp = new int[nums.length+1][nums.length+1];
         for(int [] a : dp){
             Arrays.fill(a, -1);
         }
