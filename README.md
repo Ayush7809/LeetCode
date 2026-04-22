@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ayush7809/LeetCode/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/Ayush7809/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ayush7809/LeetCode/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/Ayush7809/LeetCode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Ayush7809/LeetCode/tree/master/0486-predict-the-winner) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ayush7809/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Ayush7809/LeetCode/tree/master/1390-four-divisors) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ayush7809/LeetCode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Ayush7809/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ayush7809/LeetCode/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/Ayush7809/LeetCode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Ayush7809/LeetCode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
