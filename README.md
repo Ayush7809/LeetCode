@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Ayush7809/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Ayush7809/LeetCode/tree/master/0066-plus-one) |
+| [0224-basic-calculator](https://github.com/Ayush7809/LeetCode/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/Ayush7809/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ayush7809/LeetCode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Ayush7809/LeetCode/tree/master/0390-elimination-game) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Ayush7809/LeetCode/tree/master/0224-basic-calculator) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ayush7809/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ayush7809/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Matrix
@@ -140,12 +142,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Ayush7809/LeetCode/tree/master/0224-basic-calculator) |
 | [0735-asteroid-collision](https://github.com/Ayush7809/LeetCode/tree/master/0735-asteroid-collision) |
 | [2751-robot-collisions](https://github.com/Ayush7809/LeetCode/tree/master/2751-robot-collisions) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ayush7809/LeetCode/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/Ayush7809/LeetCode/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/Ayush7809/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ayush7809/LeetCode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Ayush7809/LeetCode/tree/master/0390-elimination-game) |
