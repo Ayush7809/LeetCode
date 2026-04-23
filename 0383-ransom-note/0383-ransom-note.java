@@ -1,0 +1,17 @@
+class Solution {
+    public boolean canConstruct(String ransomNote, String magazine) {
+        HashMap<Character, Integer> mp = new HashMap<>();
+       
+        for(char c : magazine.toCharArray()){
+            mp.put(c, mp.getOrDefault(c,0)+1);
+        }
+        for(int i=0;i<ransomNote.length();i++){
+            char c = ransomNote.charAt(i);
+            if(mp.containsKey(c) && mp.get(c)>0)
+                mp.put(c,mp.get(c)-1);
+            else
+                return false;
+        }
+        return true;
+    }
+}
