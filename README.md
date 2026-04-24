@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ayush7809/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Ayush7809/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Ayush7809/LeetCode/tree/master/0066-plus-one) |
 | [0224-basic-calculator](https://github.com/Ayush7809/LeetCode/tree/master/0224-basic-calculator) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ayush7809/LeetCode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Ayush7809/LeetCode/tree/master/0036-valid-sudoku) |
 | [0290-word-pattern](https://github.com/Ayush7809/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ayush7809/LeetCode/tree/master/0383-ransom-note) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ayush7809/LeetCode/tree/master/0012-integer-to-roman) |
 | [0224-basic-calculator](https://github.com/Ayush7809/LeetCode/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/Ayush7809/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ayush7809/LeetCode/tree/master/0383-ransom-note) |
