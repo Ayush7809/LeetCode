@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ayush7809/LeetCode/tree/master/0036-valid-sudoku) |
+| [0290-word-pattern](https://github.com/Ayush7809/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ayush7809/LeetCode/tree/master/0383-ransom-note) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayush7809/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ayush7809/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Ayush7809/LeetCode/tree/master/0224-basic-calculator) |
+| [0290-word-pattern](https://github.com/Ayush7809/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ayush7809/LeetCode/tree/master/0383-ransom-note) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ayush7809/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ayush7809/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
