@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Ayush7809/LeetCode/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/Ayush7809/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Ayush7809/LeetCode/tree/master/0118-pascals-triangle) |
+| [0135-candy](https://github.com/Ayush7809/LeetCode/tree/master/0135-candy) |
 | [0486-predict-the-winner](https://github.com/Ayush7809/LeetCode/tree/master/0486-predict-the-winner) |
 | [0735-asteroid-collision](https://github.com/Ayush7809/LeetCode/tree/master/0735-asteroid-collision) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayush7809/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Ayush7809/LeetCode/tree/master/0135-candy) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Ayush7809/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1448-maximum-69-number](https://github.com/Ayush7809/LeetCode/tree/master/1448-maximum-69-number) |
 | [1975-maximum-matrix-sum](https://github.com/Ayush7809/LeetCode/tree/master/1975-maximum-matrix-sum) |
