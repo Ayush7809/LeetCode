@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ayush7809/LeetCode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Ayush7809/LeetCode/tree/master/0036-valid-sudoku) |
+| [0076-minimum-window-substring](https://github.com/Ayush7809/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/Ayush7809/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ayush7809/LeetCode/tree/master/0383-ransom-note) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayush7809/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ayush7809/LeetCode/tree/master/0012-integer-to-roman) |
+| [0076-minimum-window-substring](https://github.com/Ayush7809/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/Ayush7809/LeetCode/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/Ayush7809/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ayush7809/LeetCode/tree/master/0383-ransom-note) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ayush7809/LeetCode/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Ayush7809/LeetCode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
